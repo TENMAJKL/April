@@ -1,0 +1,10 @@
+{
+    "require": {
+        "lemon_framework/lemon": "^2.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kernel\\": "kernel/"
+        }
+    }
+}

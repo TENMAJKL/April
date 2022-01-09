@@ -1,0 +1,11 @@
+/node_modules
+/vendor
+
+.env
+
+/.idea
+/.vscode
+**/*.sw?
+
+public/**/*.css
+public/**/*.js
